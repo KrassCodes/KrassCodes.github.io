@@ -35,14 +35,8 @@ author_profile: true
 
 <div style="padding:20px; background: rgb(27, 29, 34);border-radius: 20px;">
 <ul>
-{% for category in site.categories %}
-  <li><a name="{{ category | first }}">{{ category | first }}</a>
-    <ul>
-    {% for post in category.last %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-  </li>
+{% for post in site.posts %}
+  {% include archive-single.html %}
 {% endfor %}
 </ul> 
 </div>
