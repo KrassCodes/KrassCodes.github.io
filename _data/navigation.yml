@@ -3,9 +3,9 @@ main:
   - title: "Articles"
     url: /
   - title: "Videos"
-    url: /videos/
+    url: /videos.html
   - title: "Weekend reading"
-    url: /weekend/
+    url: /weekend.html
   - title: "About"
     url: /about/
 
