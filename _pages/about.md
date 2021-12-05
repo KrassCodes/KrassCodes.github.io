@@ -1,8 +1,18 @@
 ---
+layout: single
 permalink: /about/
-title: "About"
+author_profile: false
+
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<span style="font-size:6em;">Hello,</span>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+<span style="font-size:1.5em;">I’m Krass and I am a software engineer 😊.</span> 
+
+
+
+<span style="font-size:0.8em;"> I currently work with Swift and Objective-C on iOS and macOS with a focus on cybersecurity.
+    <br> 
+    <br>
+  My interests also include broader topics like Machine Learning, Physics, and Neuroscience. In my free time I like writing and making videos about the things I learn. You can find them on this blog and on my [YouTube channel](https://www.youtube.com/channel/UCSMxuZP6KUb_i9F-K1LAtrw){:target="_blank"}{:rel="noopener noreferrer"}.
+</span> 
