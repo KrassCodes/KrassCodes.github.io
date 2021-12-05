@@ -2,7 +2,7 @@ title: "Krass Codes"
 description: >-
   A blog for Swift code examples and experiments. Sometimes non-Swift stuff too.
 github_username:  KrassCodes
-minimal_mistakes_skin: "dark"search: true
+minimal_mistakes_skin: "dark"
 
 # Build settings
 markdown: kramdown
