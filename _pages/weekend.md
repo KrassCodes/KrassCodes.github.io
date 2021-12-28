@@ -6,6 +6,20 @@ author_profile: false
 
 ---
 
+<div style="padding:20px; background: rgb(27, 29, 34);border-radius: 20px;">
+<h2><i class="fas fa-tag"></i>  Arcane on Netflix </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fXmAurh012s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br>
+
+
+<div style="padding:20px; background: rgb(27, 29, 34);border-radius: 20px;">
+<h2><i class="fas fa-tag"></i>  Peter Wang: Python and the Source Code of Humans, Computers, and Reality | Lex Fridman Podcast </h2>
+<iframe src="https://open.spotify.com/embed/episode/5mAcsOMpFR38R8rAAyV8HH?utm_source=generator" width="100%" height="232" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</div>
+
+<br>
 
 <div style="padding:20px; background: rgb(27, 29, 34);border-radius: 20px;">
 <h2><i class="fas fa-tag"></i>  William Ratcliff on Multicellularity, Physics, and Evolution </h2>
