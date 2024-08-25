@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Articles"
-    url: /
-  - title: "Videos"
-    url: /videos.html
-  - title: "Weekend reading"
-    url: /weekend.html
+  # - title: "Articles"
+  #   url: /
   - title: "About"
     url: /about/
+  - title: "Apps"
+    url: /apps.html
+  - title: "Videos"
+    url: /videos.html
+  # - title: "Weekend reading"
+  #   url: /weekend.html
 
 
