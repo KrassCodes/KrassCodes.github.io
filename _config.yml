@@ -1,4 +1,4 @@
-title: "Krass Codes"
+title: "krass.codes"
 description: >-
   A blog for Swift code examples and experiments. Sometimes non-Swift stuff too.
 github_username:  KrassCodes
@@ -27,15 +27,15 @@ plugins:
 author:
   name     : "Krass Iankov"
   avatar   : "/assets/bio-photo.png"
-  bio      : "Software engineer 🛠"
-  location : "Remote"
-  links:
-    - label: "YouTube channel"
-      icon: "fab fa-youtube"
-      url: "https://youtube.com/channel/UCSMxuZP6KUb_i9F-K1LAtrw"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/KrassCodes"
+  # bio      : "Software engineer 🛠"
+  # location : "Remote"
+  # links:
+  #   - label: "YouTube channel"
+  #     icon: "fab fa-youtube"
+  #     url: "https://youtube.com/channel/UCSMxuZP6KUb_i9F-K1LAtrw"
+  #   - label: "GitHub"
+  #     icon: "fab fa-github"
+  #     url: "https://github.com/KrassCodes"
 
 defaults:
   # _posts
