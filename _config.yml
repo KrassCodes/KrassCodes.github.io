@@ -1,6 +1,6 @@
-title: "krass.codes"
+title: "krass-code"
 description: >-
-  A blog for Swift code examples and experiments. Sometimes non-Swift stuff too.
+  A portfolio page for Krass.
 github_username:  KrassCodes
 minimal_mistakes_skin: "dark"
 
@@ -25,7 +25,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name     : "Krass Iankov"
+  # name     : "Krass Iankov"
   avatar   : "/assets/bio-photo.png"
   # bio      : "Software engineer 🛠"
   # location : "Remote"
