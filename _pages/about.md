@@ -7,9 +7,7 @@ author_profile: true
 
 <span style="font-size:6em;">Hello,</span>
 
-<span style="font-size:1.5em;">I’m Krass, an iOS software engineer 😊.</span> 
-
-
+<span style="font-size:1.5em;">I’m Krass, an iOS software engineer.</span> 
 
 <span style="font-size:0.8em;"> I enjoy launching and scaling new apps.
     <br> 

@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /apps/
+permalink: /apps
 author_profile: false
 
 ---
