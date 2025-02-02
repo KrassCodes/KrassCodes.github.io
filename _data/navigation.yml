@@ -2,8 +2,5 @@
 main:
   - title: "Projects"
     url: /apps.html
-    subsubfolderitems:
-      - title: "About"
-      url: /avout.html
   - title: "Videos"
     url: /videos.html
