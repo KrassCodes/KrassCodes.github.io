@@ -2,7 +2,7 @@ title: "krass-code"
 description: >-
   A portfolio page for Krass-Code.
 github_username:  KrassCodes
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "aqua"
 
 # Build settings
 markdown: kramdown
@@ -61,4 +61,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-# theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
