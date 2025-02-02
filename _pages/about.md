@@ -1,16 +1,12 @@
 ---
 layout: single
 permalink: /about/
-author_profile: true
+author_profile: false
 
 ---
 
-<span style="font-size:6em;">Hello,</span>
 
-<span style="font-size:1.5em;">I’m Krass, an iOS software engineer.</span> 
+<span style="font-size:1.5em;">Welcome to Krass-Code.</span> 
 
-<span style="font-size:0.8em;"> I enjoy launching and scaling new apps.
-    <br> 
-    <br>
-  Sometimes I also make tutorials at: [YouTube channel](https://www.youtube.com/channel/UCSMxuZP6KUb_i9F-K1LAtrw){:target="_blank"}{:rel="noopener noreferrer"}.
+<span style="font-size:0.8em;">A place for iOS projects & experiments. 
 </span> 
