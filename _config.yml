@@ -2,7 +2,7 @@ title: "krass-code"
 description: >-
   A portfolio page for Krass.
 github_username:  KrassCodes
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "air"
 
 # Build settings
 markdown: kramdown
@@ -24,9 +24,9 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
+# author:
   # name     : "Krass Iankov"
-  avatar   : "/assets/bio-photo.png"
+  # avatar   : "/assets/bio-photo.png"
   # bio      : "Software engineer 🛠"
   # location : "Remote"
   # links:
