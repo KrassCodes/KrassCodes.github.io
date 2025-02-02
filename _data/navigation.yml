@@ -2,5 +2,7 @@
 main:
   - title: "Projects"
     url: /apps.html
+    - title: "About"
+    url: /avout.html
   - title: "Videos"
     url: /videos.html
