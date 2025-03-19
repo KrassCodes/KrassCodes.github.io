@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
 :root {
     --background: rgb(28, 28, 30);
     --background-alt: rgb(36, 36, 38);
@@ -6,6 +8,8 @@
     --accent: rgb(227, 88, 83);
     --border: rgb(54, 54, 56);
     --transition: all 0.3s ease;
+    --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
+    --white: #ffffff;
 }
 
 * {
@@ -15,8 +19,9 @@
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-family: var(--font-primary);
     line-height: 1.6;
+    font-weight: 400;
     color: var(--text-primary);
     background: var(--background);
     font-size: 18px;
@@ -29,26 +34,37 @@ body {
 }
 
 /* Typography */
-h1, h2, h3 {
-    font-family: 'IBM Plex Serif', serif;
-    font-weight: 500;
-    line-height: 1.3;
+h1, h2, h3, h4 {
+    font-family: var(--font-primary);
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
 }
 
 h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
     margin-bottom: 2rem;
 }
 
 h2 {
     font-size: 2rem;
+    font-weight: 600;
     margin: 4rem 0 2rem;
 }
 
 h3 {
     font-size: 1.5rem;
+    font-weight: 600;
     margin: 2rem 0 1rem;
     color: var(--accent);
+}
+
+h4 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
 }
 
 p {
@@ -58,6 +74,8 @@ p {
 
 .lead {
     font-size: 1.25rem;
+    font-weight: 400;
+    letter-spacing: -0.01em;
     color: var(--text-primary);
 }
 
@@ -87,10 +105,11 @@ p {
 }
 
 .logo-text {
-    font-family: 'IBM Plex Serif', serif;
+    font-family: var(--font-primary);
+    font-weight: 600;
     font-size: 1.25rem;
-    color: var(--text-primary);
     letter-spacing: -0.02em;
+    color: var(--white);
 }
 
 /* For footer or other places where logo might appear */
@@ -109,6 +128,7 @@ p {
     text-decoration: none;
     color: var(--text-secondary);
     transition: var(--transition);
+    font-weight: 500;
 }
 
 .nav-items a:hover {
@@ -188,6 +208,7 @@ p {
     text-decoration: none;
     font-size: 0.9rem;
     transition: var(--transition);
+    font-weight: 500;
 }
 
 .footer-links a:hover {
@@ -224,4 +245,77 @@ p {
         gap: 1rem;
         text-align: center;
     }
+}
+
+/* Legal Pages Styles */
+.legal-content {
+    padding: 6rem 0;
+}
+
+.legal-content .container {
+    max-width: 800px;
+}
+
+.legal-content h1 {
+    margin-bottom: 1rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+}
+
+.last-updated {
+    color: var(--text-secondary);
+    margin-bottom: 3rem;
+}
+
+.legal-section {
+    margin-bottom: 3rem;
+}
+
+.legal-section h2 {
+    color: var(--accent);
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+}
+
+.legal-section p {
+    margin-bottom: 1rem;
+}
+
+.legal-section ul {
+    list-style: none;
+    margin: 1rem 0;
+}
+
+.legal-section ul li {
+    color: var(--text-secondary);
+    margin-bottom: 0.5rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.legal-section ul li::before {
+    content: "•";
+    color: var(--accent);
+    position: absolute;
+    left: 0;
+}
+
+/* App card title */
+.app-info h3 {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+}
+
+/* Feature headings */
+.feature h2 {
+    font-weight: 600;
+    letter-spacing: -0.01em;
+}
+
+/* Price display */
+.price {
+    font-weight: 700;
+    letter-spacing: -0.02em;
 } 
